@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋😄 About Me:
 
 Hi there, I'm Fathurrahman 👋<br><br>I'm a passionate Fullstack Web Developer based in Bekasi, Indonesia 🇮🇩. I enjoy building responsive and accessible user interfaces, and I'm currently expanding my skills on the backend.<br><br>Tech Stack<br>- **Frontend (most experience):** React.js, Next.js, Tailwind CSS, shadcn/ui, TypeScript, JavaScript<br>- **Backend (currently exploring):** Hono (Bun), Express.js, Laravel<br>- **Database:** PostgreSQL, MySQL<br>- **Tools & Others:** Git, Vite, Prisma ORM, REST APIs, Clerk, TanStack Query, Zod<br><br>🌱 Currently Learning<br>- Building APIs with **Hono** and **PostgreSQL**<br>- Improving backend skills with **Express.js** and **Prisma ORM**<br>- Experimenting with **Laravel** for backend projects<br>- Diving deeper into **Vue.js** and refining my React skills<br><br>📫 Let's Connect<br>- LinkedIn: [fathurrahman-profile](https://linkedin.com/in/fathurrahman-profile/)<br>- Email: fathurrahman.work@gmail.com<br>- Instagram: [@\_ffathurrhmn](https://instagram.com/_ffathurrhmn)
 
