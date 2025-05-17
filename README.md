@@ -1,10 +1,10 @@
 # 👋😄 About Me:
 
-Hi there, I'm Fathurrahman 👋<br><br>I'm a passionate Fullstack Web Developer based in Bekasi, Indonesia 🇮🇩. I enjoy building responsive and accessible user interfaces, and I'm currently expanding my skills on the backend.<br><br>Tech Stack<br>- **Frontend (most experience):** React.js, Next.js, Tailwind CSS, shadcn/ui, TypeScript, JavaScript<br>- **Backend (currently exploring):** Hono (Bun), Express.js, Laravel<br>- **Database:** PostgreSQL, MySQL<br>- **Tools & Others:** Git, Vite, Prisma ORM, REST APIs, Clerk, TanStack Query, Zod<br><br>🌱 Currently Learning<br>- Building APIs with **Hono** and **PostgreSQL**<br>- Improving backend skills with **Express.js** and **Prisma ORM**<br>- Experimenting with **Laravel** for backend projects<br>- Diving deeper into **Vue.js** and refining my React skills<br><br>📫 Let's Connect<br>- LinkedIn: [fathurrahman-profile](https://linkedin.com/in/fathurrahman-profile/)<br>- Email: fathurrahman.work@gmail.com<br>- Instagram: [@\_ffathurrhmn](https://instagram.com/_ffathurrhmn)
+Hi there, I'm Fathurrahman 👋<br><br>I'm a passionate Fullstack Web Developer based in Bekasi, Indonesia 🇮🇩. I enjoy building responsive and accessible user interfaces, and I'm currently expanding my skills on the backend.<br><br>Tech Stack<br>- **Frontend (most experience):** React.js, Next.js, Tailwind CSS, shadcn/ui, TypeScript, JavaScript<br>- **Backend (currently exploring):** Hono (Bun), Express.js, Laravel<br>- **Database:** PostgreSQL, MySQL<br>- **Tools & Others:** Git, Vite, Prisma ORM, REST APIs, Clerk, TanStack Query, Zod<br><br>🌱 Currently Learning<br>- Building APIs with **Hono** and **PostgreSQL**<br>- Improving backend skills with **Express.js** and **Prisma ORM**<br>- Experimenting with **Laravel** for backend projects<br>- Diving deeper into **Vue.js** and refining my React skills<br><br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ffathurrhmn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathurrahman-profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fathurrahman.fatoni@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ffathurrhmn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathurrahman-profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fathurrahman.work@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -21,5 +21,18 @@ Hi there, I'm Fathurrahman 👋<br><br>I'm a passionate Fullstack Web Developer 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- ## 📂 My Stats -->
+<h2 align="start">⚡ Stats</h2>
+<p align=start>
+  <div align=start >
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurrahman20&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathurrahman20&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
